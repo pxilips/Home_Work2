@@ -127,12 +127,3 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
-# Home Work 3
-**/.terraform/*
-*.tfstate
-*.tfstate.*
-.terraformrc
-terraform.rc
-*.tfvars
-*.tfvars.json
